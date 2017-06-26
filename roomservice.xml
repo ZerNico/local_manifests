@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="ZerNico/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="PN" />
-  <project name="BirdSanctuary/device_oppo_common" path="device/oppo/common" remote="github" revision="n7" />
+  <project name="ZerNico/device_oppo_common" path="device/oppo/common" remote="github" revision="n7" />
   <project name="ZerNico/Arsenic.Kernel" path="kernel/oneplus/onyx" remote="github" revision="stable" />
   <project name="BigTopKrazies/vendor_oneplus-onyx" path="vendor/oneplus" remote="github" revision="n7.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
